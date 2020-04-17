@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "sourceType": "cn.coolwang.restful.config.RestfulProperties",
+      "name": "restful Config",
+      "type": "cn.coolwang.restful.config.RestfulProperties",
+      "description": "Restful配置信息"
+    }
+] }
